@@ -1,7 +1,6 @@
 # Theremin Instrument
 
-![Project Demo](assets/demo.gif)
-*Watch the [full video demonstration here](YOUR_UNLISTED_YOUTUBE_LINK).*
+
 
 ## Overview
 This project is a contactless, ultrasonic digital Theremin that translates physical hand proximity into synthesized audio frequencies. It serves as an interactive, touch-free auditory interface by combining spatial distance sensing with real-time signal generation. The system continuously measures hand distance and dynamically maps it to a pitch, while a debounced hardware "mute pedal" allows the user to instantly toggle the audio output.
@@ -15,7 +14,7 @@ This project is a contactless, ultrasonic digital Theremin that translates physi
 * Power Supply (5V via USB)
 
 ## Circuit & Physical Build
-![Circuit/Build Photo](assets/YOUR_BEST_PICTURE_NAME.jpg)
+
 *Breadboard prototype showing the HC-SR04 sensor positioning and the BC547 transistor acting as a power valve to safely amplify the Arduino's signal for the salvaged speaker.*
 
 ## Software & Libraries
